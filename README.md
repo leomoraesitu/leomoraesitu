@@ -1,4 +1,4 @@
-<img src="https://github.com/leomoraesitu/leomoraesitu/assets/128606856/620978d4-94e6-4f65-a6d1-ea29f7340e28" width="840">
+<img src="https://github.com/user-attachments/assets/dd3c2368-538a-4fe6-b77c-b95c388744b2" width="840">
 
 <br></br>
 <img src="https://img.shields.io/static/v1?label=Overview&message=Léo Moraes&color=f8efd4&style=for-the-badge&logo=GitHub">
