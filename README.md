@@ -1,5 +1,4 @@
-<img src="https://github.com/user-attachments/assets/dd3c2368-538a-4fe6-b77c-b95c388744b2" width="840">
-
+<img src="https://github.com/user-attachments/assets/f502dc33-1c9f-464e-83bd-06fc4d4edea3" width="840">
 <br></br>
 <img src="https://img.shields.io/static/v1?label=Overview&message=Léo Moraes&color=f8efd4&style=for-the-badge&logo=GitHub">
 
