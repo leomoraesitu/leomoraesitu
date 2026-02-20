@@ -20,6 +20,10 @@
   Aplicativo de viagens desenvolvido em **FlutterFlow + Firebase**, com CRUD de destinos, favoritos e design responsivo focado em UX e usabilidade.  
   🌐 [Versão Web](https://app-viagens-leomoraes.flutterflow.app)
 
+- [**Web App CRM**](https://github.com/leomoraesitu/web-app-crm)  
+  Aplicação web de gestão de clientes (CRM) desenvolvido em **FlutterFlow + Firebase**, com foco em organização de leads, controle de informações comerciais e estruturação de fluxo de atendimento.  
+  Projeto voltado para demonstrar fundamentos de **arquitetura web, modelagem de dados, governança, gestão de projetos, organização de estados e boas práticas de versionamento**.
+
 - [**FastAPI CRUD**](https://github.com/leomoraesitu/fastapi-crud)  
   API RESTful em **Python + FastAPI**, com TDD via **Pytest**.
 
