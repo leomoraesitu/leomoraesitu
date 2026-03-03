@@ -16,13 +16,20 @@
 
 ## 🧩 Projetos em Destaque
 
-- [**App Viagens**](https://github.com/leomoraesitu/app-viagens)  
-  Aplicativo de viagens desenvolvido em **FlutterFlow + Firebase**, com CRUD de destinos, favoritos e design responsivo focado em UX e usabilidade.  
-  🌐 [Versão Web](https://app-viagens-leomoraes.flutterflow.app)
-
 - [**Web App CRM**](https://github.com/leomoraesitu/web-app-crm)  
   Aplicação web de gestão de clientes (CRM) desenvolvido em **FlutterFlow + Firebase**, com foco em organização de leads, controle de informações comerciais e estruturação de fluxo de atendimento.  
   Projeto voltado para demonstrar fundamentos de **arquitetura web, modelagem de dados, governança, gestão de projetos, organização de estados e boas práticas de versionamento**.
+  
+  🌐 [Versão Web](https://webappcrm-leomoraesitu.flutterflow.app/)    
+  📱 [Versão Android](https://github.com/leomoraesitu/web-app-crm/releases)  
+
+</br>
+
+- [**App Viagens**](https://github.com/leomoraesitu/app-viagens)  
+  Aplicativo de viagens desenvolvido em **FlutterFlow + Firebase**, com CRUD de destinos, favoritos e design responsivo focado em UX e usabilidade.  
+
+  🌐 [Versão Web](https://app-viagens-leomoraes.flutterflow.app)   
+  📱 [Versão Android](https://github.com/leomoraesitu/app-viagens/releases)
 
 ---
 
