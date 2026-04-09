@@ -4,7 +4,7 @@
 <br>
 
 # 🧑🏿‍💻 Leonardo de Moraes Souza  
-💼 Desenvolvedor de Software | FlutterFlow • Supabase • Firebase 
+💼 Desenvolvedor Flutter & Firebase | Web & Mobile | Backend Serverless | Arquitetura Dev/Prod | CI/CD | Software Engineer Jr+
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas (FATEC Itu)**  
 💻 Foco em **Desenvolvimento e Engenharia de Software**  
