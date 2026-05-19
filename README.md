@@ -16,13 +16,21 @@
 
 ## 🧩 Projetos em Destaque
 <p align="center">
+<img width="100" alt="logo-flowdelivery-light" src="https://github.com/user-attachments/assets/b23b25ba-4f62-4788-80c2-841d4fb24d98" />
+</p>
+
+-   [**FlowDelivery**](https://github.com/leomoraesitu/flowdelivery-app) </br>
+  Aplicativo de delivery desenvolvido em **Flutter**, estruturado como case de portfólio para demonstrar arquitetura MVVM, organização por features, design system, documentação técnica e preparação para integração com Supabase.  
+  Projeto voltado para evidenciar fundamentos de **engenharia de software, arquitetura mobile, UX/UI Design, versionamento, gestão ágil e evolução incremental de produto digital**.
+---
+<p align="center">
 <img width="100" alt="logo-fintrack-light" src="https://github.com/user-attachments/assets/2b17f4c1-f2c7-483d-8b10-feac2a1d2b4a" />
 </p>
 
 -  [**FinTrack**](https://github.com/leomoraesitu/fintrack)  
   Aplicativo de finanças pessoais em **Flutter**, estruturado como case de portfólio para demonstrar visão de produto, arquitetura em camadas, organização de backlog, documentação técnica e handoff de UX/UI para implementação do MVP.  
   Projeto voltado para evidenciar fundamentos de **engenharia de software, clean code, gestão ágil, documentação funcional e preparação de produto digital**.
-
+---
 <p align="center">
 <img width="164" alt="logo-hz-web-app-crm" src="https://github.com/user-attachments/assets/e0743c0b-ef97-494e-b710-53548fa0562f" />
 </p>
@@ -33,9 +41,9 @@
   
   🌐 [Versão Web](https://webappcrm-leomoraesitu.flutterflow.app/)    
   📱 [Versão Android](https://github.com/leomoraesitu/web-app-crm/releases)
-  
+---  
 <p align="center">
-<img width="90" alt="icone-app-viagens" src="https://github.com/user-attachments/assets/b2bf9809-2c66-4185-91f6-1292702e7d93" />
+<img width="40" alt="icone-app-viagens" src="https://github.com/user-attachments/assets/b2bf9809-2c66-4185-91f6-1292702e7d93" />
 </p>
 
 - [**App Viagens**](https://github.com/leomoraesitu/app-viagens)  
