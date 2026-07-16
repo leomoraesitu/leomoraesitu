@@ -115,11 +115,11 @@ Git · GitHub · GitHub Actions · CI/CD
 
 ## Como trabalho
 
-Clean Architecture e separação de responsabilidades
-Desenvolvimento incremental orientado por sprints
-Spec-Driven Development
-Conventional Commits e Pull Requests
-Testes automatizados e evidências de validação
+Clean Architecture e separação de responsabilidades /
+Desenvolvimento incremental orientado por sprints /
+Spec-Driven Development /
+Conventional Commits e Pull Requests /
+Testes automatizados e evidências de validação /
 CI/CD e documentação técnica
   
 <sub>Experiência em práticas ágeis para planejamento, acompanhamento e entrega contínua de projetos.</sub>
