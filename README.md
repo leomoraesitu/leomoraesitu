@@ -37,6 +37,20 @@ iOS nativo: aplicação em SwiftUI com NavigationStack, Design Tokens, XCTest, S
 
     🌐 [Versão Web](https://leomoraesitu.github.io/flowdelivery-app/)    
     📱 [Versão Android](https://github.com/leomoraesitu/flowdelivery-app/releases)
+
+-   [**FlowDelivery iOS**](https://github.com/leomoraesitu/flowdelivery-ios) </br>
+  Implementação nativa para iOS do ecossistema FlowDelivery, desenvolvida com Swift e SwiftUI para aprofundamento em Engenharia Mobile no ecossistema Apple.
+
+Principais fundamentos aplicados:
+- Swift e SwiftUI
+- NavigationStack e rotas tipadas
+- Interface orientada a estado
+- Design System com Design Tokens
+- Componentes reutilizáveis
+- XCTest e UI Tests
+- SwiftLint e SwiftFormat
+- Xcode e Swift Package Manager
+- Feature branches e Pull Requests
 ---
 <p align="center">
 <img width="100" alt="logo-fintrack-light" src="https://github.com/user-attachments/assets/2b17f4c1-f2c7-483d-8b10-feac2a1d2b4a" />
@@ -124,15 +138,13 @@ CI/CD e documentação técnica
 
 ---
 
-## 💬 Sobre Mim
+## Sobre
 
-- 🎓 Graduação: **FATEC Itu — Análise e Desenvolvimento de Sistemas**  
-  e **CEUNSP — Comunicação Social com ênfase em Rádio, TV e Internet**  
-- 💡 Interesses: **Desenvolvimento de Software, Engenharia de Software, UX/UI Design, Governança de TI e Gestão de Projetos**  
-- ⚙️ Experiência em **Desenvolvimento de Software na Escribo (bolsa Softex)**  
-- 🎹 Apaixonado por **tecnologia, música e audiovisual**  
-- 🚀 Sempre em busca de **novos desafios e aprendizado contínuo**
-
+- Desenvolvedor de Software com experiência profissional em Flutter, FlutterFlow, Dart e Supabase.
+- Formado em Análise e Desenvolvimento de Sistemas pela FATEC Itu.
+- Em evolução no desenvolvimento iOS nativo com Swift e SwiftUI.
+- Interesse em Arquitetura Mobile, Design Systems, qualidade de código, automação e experiência do usuário.
+- Experiência anterior em audiovisual, contribuindo para comunicação, percepção visual e atenção aos detalhes.
 ---
 
 ## 🌐 Conecte-se Comigo
