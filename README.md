@@ -104,7 +104,7 @@ Principais fundamentos aplicados:
 
 ### Stack principal
 
-Flutter · Dart · Swift · SwiftUI · BlOC · Riverpod · GoRouter  
+Flutter · Dart · Swift · SwiftUI · BLoC · Riverpod · GoRouter  
 Supabase · Firebase · PostgreSQL  
 Xcode · XCTest · SwiftLint · SwiftFormat  
 Git · GitHub · GitHub Actions · CI/CD
