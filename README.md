@@ -3,12 +3,24 @@
 ![Overview](https://img.shields.io/static/v1?label=Overview&message=L%C3%A9o%20Moraes&color=007aab&style=for-the-badge&logo=GitHub&logoColor=white)
 <br>
 
-# 🧑🏿‍💻 Leonardo de Moraes Souza  
-💼 Desenvolvedor Flutter & Firebase | Web & Mobile | Backend Serverless | Arquitetura Dev/Prod | CI/CD | Software Engineer Jr+
+# Leonardo de Moraes Souza  
+## Mobile Software Engineer | Flutter • Dart • Swift • SwiftUI
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas (FATEC Itu)**  
-💻 Foco em **Desenvolvimento e Engenharia de Software**  
-📊 Entusiasta de **Governança de TI, UX e UI Design**
+### Desenvolvo aplicações móveis escaláveis com arquitetura limpa, interfaces orientadas a estado, testes automatizados e integração com backends reais.
+<br>
+
+Sou Desenvolvedor de Software com foco em aplicações Mobile, Web e iOS,
+utilizando Flutter, Dart, Swift e SwiftUI.
+
+Construo projetos com Clean Architecture, MVVM, gerenciamento de estado
+reativo, Design Systems, testes automatizados e integração com Firebase
+e Supabase.
+
+Atualmente desenvolvo o FlowDelivery em duas implementações:
+
+Flutter: aplicação multiplataforma com Riverpod, GoRouter e Supabase.
+
+iOS nativo: aplicação em SwiftUI com NavigationStack, Design Tokens, XCTest, SwiftLint e SwiftFormat.
 
 </div>
 
@@ -63,36 +75,39 @@
 
 ## 💼 Tecnologias e Ferramentas
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<div align="center">
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-007aab?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-5B4BDB?style=for-the-badge&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+### Stack principal
+
+Flutter · Dart · Swift · SwiftUI · Riverpod · GoRouter  
+Supabase · Firebase · PostgreSQL  
+Xcode · XCTest · SwiftLint · SwiftFormat  
+Git · GitHub · GitHub Actions · CI/CD
 
 <sub>Stack técnica utilizada em meus projetos e estudos de desenvolvimento de software.</sub>
 
 ---
 
-## 📚 Metodologias e Frameworks
+## Como trabalho
 
-![UX%20Design](https://img.shields.io/badge/UX%20Design-FF4088?style=for-the-badge&logo=figma&logoColor=white)
-![UI%20Design](https://img.shields.io/badge/UI%20Design-8A2BE2?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Engenharia%20de%20Software](https://img.shields.io/badge/Engenharia%20de%20Software-1D1D1B?style=for-the-badge&logo=gitbook&logoColor=white)
-
-<sub>Frameworks, padrões e práticas voltadas ao design de interfaces e à engenharia de software.</sub>
-
----
-
-### 🧭 Gestão Ágil de Projetos
-
-![Metodologias Ágeis](https://img.shields.io/badge/Metodologias%20%C3%81geis-007aab?style=for-the-badge&logo=scrum&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-009688?style=for-the-badge&logo=kanban&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
+Clean Architecture e separação de responsabilidades
+Desenvolvimento incremental orientado por sprints
+Spec-Driven Development
+Conventional Commits e Pull Requests
+Testes automatizados e evidências de validação
+CI/CD e documentação técnica
+  
 <sub>Experiência em práticas ágeis para planejamento, acompanhamento e entrega contínua de projetos.</sub>
 
 </div>
