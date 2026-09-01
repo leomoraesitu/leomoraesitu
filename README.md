@@ -27,6 +27,18 @@ iOS nativo: aplicação em SwiftUI com NavigationStack, Design Tokens, XCTest, S
 ---
 
 ## 🧩 Projetos em Destaque
+
+---
+
+- [**MediFlow Learning**](https://github.com/leomoraesitu/mediflow-learning)  
+  Projeto educacional desenvolvido em **Flutter e Dart** para demonstrar a construção incremental de um checkout de medicamentos resiliente, com fluxo orientado a estados, acessibilidade e testes automatizados.
+
+  Estruturado como monorepo com **Pub Workspaces**, separa a aplicação mobile de um domínio Dart puro. O projeto aplica **BLoC/Cubit, máquina de estados, Repository Pattern, injeção de dependência, imutabilidade e ciclos TDD RED → GREEN**.
+
+  Projeto voltado para evidenciar fundamentos de **arquitetura mobile, gerenciamento reativo de estado, regras de domínio, recuperação de falhas, Design System, acessibilidade, documentação técnica e evolução orientada por Pull Requests**.
+
+  > Todos os dados, medicamentos, receitas, saldos e pagamentos utilizados são exclusivamente fictícios.
+</br>
 <p align="center">
 <img width="100" alt="logo-flowdelivery-light" src="https://github.com/user-attachments/assets/b23b25ba-4f62-4788-80c2-841d4fb24d98" />
 </p>
