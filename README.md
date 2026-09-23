@@ -16,7 +16,7 @@ Construo projetos com Clean Architecture, MVVM, gerenciamento de estado
 reativo, Design Systems, testes automatizados e integração com Firebase
 e Supabase.
 
-Atualmente desenvolvo o FlowDelivery em duas implementações:
+Atualmente desenvolvo o MediFlow e o FlowDelivery em duas implementações:
 
 Flutter: aplicação multiplataforma com Riverpod, GoRouter e Supabase.
 
@@ -31,7 +31,7 @@ iOS nativo: aplicação em SwiftUI com NavigationStack, Design Tokens, XCTest, S
 ---
 
 - [**MediFlow Learning**](https://github.com/leomoraesitu/mediflow-learning)  
-  Projeto educacional desenvolvido em **Flutter e Dart** para demonstrar a construção incremental de um checkout de medicamentos resiliente, com fluxo orientado a estados, acessibilidade e testes automatizados.
+  Projeto desenvolvido em **Flutter e Dart** para demonstrar a construção incremental de um checkout de medicamentos resiliente, com fluxo orientado a estados, acessibilidade e testes automatizados.
 
   Estruturado como monorepo com **Pub Workspaces**, separa a aplicação mobile de um domínio Dart puro. O projeto aplica **BLoC/Cubit, máquina de estados, Repository Pattern, injeção de dependência, imutabilidade e ciclos TDD RED → GREEN**.
 
