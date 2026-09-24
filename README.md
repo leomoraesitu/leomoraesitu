@@ -29,8 +29,15 @@ iOS nativo: aplicação em SwiftUI com NavigationStack, Design Tokens, XCTest, S
 ## 🧩 Projetos em Destaque
 
 ---
+<table>
+<tr>
+<td width="90" valign="top" align="center">
+</br>
+<img src="https://raw.githubusercontent.com/leomoraesitu/mediflow-learning/main/docs/assets/logo.svg" alt="" width="64">
+</td>
+<td valign="top">
 
-- [**MediFlow Learning**](https://github.com/leomoraesitu/mediflow-learning)  
+- [**MediFlow**](https://github.com/leomoraesitu/mediflow-learning)  
   Projeto desenvolvido em **Flutter e Dart** para demonstrar a construção incremental de um checkout de medicamentos resiliente, com fluxo orientado a estados, acessibilidade e testes automatizados.
 
   Estruturado como monorepo com **Pub Workspaces**, separa a aplicação mobile de um domínio Dart puro. O projeto aplica **BLoC/Cubit, máquina de estados, Repository Pattern, injeção de dependência, imutabilidade e ciclos TDD RED → GREEN**.
@@ -38,10 +45,14 @@ iOS nativo: aplicação em SwiftUI com NavigationStack, Design Tokens, XCTest, S
   Projeto voltado para evidenciar fundamentos de **arquitetura mobile, gerenciamento reativo de estado, regras de domínio, recuperação de falhas, Design System, acessibilidade, documentação técnica e evolução orientada por Pull Requests**.
 
   > Todos os dados, medicamentos, receitas, saldos e pagamentos utilizados são exclusivamente fictícios.
-</br>
-<p align="center">
+
+
+<tr>
+<td width="90" valign="top" align="center">
+  </br>
 <img width="100" alt="logo-flowdelivery-light" src="https://github.com/user-attachments/assets/b23b25ba-4f62-4788-80c2-841d4fb24d98" />
-</p>
+</td>
+<td valign="top">
 
 -   [**FlowDelivery**](https://github.com/leomoraesitu/flowdelivery-app) </br>
   Aplicativo de delivery desenvolvido em **Flutter**, estruturado como case de portfólio para demonstrar arquitetura MVVM, organização por features, design system, documentação técnica e preparação para integração com Supabase.  
@@ -63,20 +74,27 @@ Principais fundamentos aplicados:
 - SwiftLint e SwiftFormat
 - Xcode e Swift Package Manager
 - Feature branches e Pull Requests
----
-<p align="center">
+
+
+<tr>
+<td width="90" valign="top" align="center">
+  </br>
 <img width="100" alt="logo-fintrack-light" src="https://github.com/user-attachments/assets/2b17f4c1-f2c7-483d-8b10-feac2a1d2b4a" />
-</p>
+</td>
+<td valign="top">
 
 -  [**FinTrack**](https://github.com/leomoraesitu/fintrack)  
   Aplicativo de finanças pessoais em **Flutter**, estruturado como case de portfólio para demonstrar visão de produto, arquitetura em camadas, organização de backlog, documentação técnica e handoff de UX/UI para implementação do MVP.  
   Projeto voltado para evidenciar fundamentos de **engenharia de software, clean code, gestão ágil, documentação funcional e preparação de produto digital**.
    
     📱 [Versão Android](https://github.com/leomoraesitu/fintrack/releases)    
----
-<p align="center">
+
+
+<tr>
+<td width="90" valign="top" align="center">
 <img width="164" alt="logo-hz-web-app-crm" src="https://github.com/user-attachments/assets/e0743c0b-ef97-494e-b710-53548fa0562f" />
-</p>
+</td>
+<td valign="top">
 
 - [**Web App CRM**](https://github.com/leomoraesitu/web-app-crm)  
   Aplicação web de gestão de clientes (CRM) desenvolvido em **FlutterFlow + Firebase**, com foco em organização de leads, controle de informações comerciais e estruturação de fluxo de atendimento.  
@@ -84,10 +102,14 @@ Principais fundamentos aplicados:
   
   🌐 [Versão Web](https://webappcrm-leomoraesitu.flutterflow.app/)    
   📱 [Versão Android](https://github.com/leomoraesitu/web-app-crm/releases)
----  
-<p align="center">
+
+
+<tr>
+<td width="90" valign="top" align="center">
+  </br>
 <img width="40" alt="icone-app-viagens" src="https://github.com/user-attachments/assets/b2bf9809-2c66-4185-91f6-1292702e7d93" />
-</p>
+</td>
+<td valign="top">
 
 - [**App Viagens**](https://github.com/leomoraesitu/app-viagens)  
   Aplicativo de viagens desenvolvido em **FlutterFlow + Firebase**, com CRUD de destinos, favoritos e design responsivo focado em UX e usabilidade.  
