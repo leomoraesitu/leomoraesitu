@@ -47,10 +47,15 @@ iOS nativo: aplicação em SwiftUI com NavigationStack, Design Tokens, XCTest, S
   > Todos os dados, medicamentos, receitas, saldos e pagamentos utilizados são exclusivamente fictícios.
 
 
+</td>
+</tr>
 <tr>
 <td width="90" valign="top" align="center">
   </br>
-<img width="100" alt="logo-flowdelivery-light" src="https://github.com/user-attachments/assets/b23b25ba-4f62-4788-80c2-841d4fb24d98" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flowdelivery-dark.png">
+  <img width="100" alt="FlowDelivery" src="assets/flowdelivery-light.png">
+</picture>
 </td>
 <td valign="top">
 
@@ -76,10 +81,15 @@ Principais fundamentos aplicados:
 - Feature branches e Pull Requests
 
 
+</td>
+</tr>
 <tr>
 <td width="90" valign="top" align="center">
   </br>
-<img width="100" alt="logo-fintrack-light" src="https://github.com/user-attachments/assets/2b17f4c1-f2c7-483d-8b10-feac2a1d2b4a" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fintrack-dark.png">
+  <img width="100" alt="FinTrack" src="assets/fintrack-light.png">
+</picture>
 </td>
 <td valign="top">
 
@@ -90,9 +100,14 @@ Principais fundamentos aplicados:
     📱 [Versão Android](https://github.com/leomoraesitu/fintrack/releases)    
 
 
+</td>
+</tr>
 <tr>
 <td width="90" valign="top" align="center">
-<img width="164" alt="logo-hz-web-app-crm" src="https://github.com/user-attachments/assets/e0743c0b-ef97-494e-b710-53548fa0562f" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/webappcrm-dark.png">
+  <img width="164" alt="Web App CRM" src="assets/webappcrm-light.png">
+</picture>
 </td>
 <td valign="top">
 
@@ -104,6 +119,8 @@ Principais fundamentos aplicados:
   📱 [Versão Android](https://github.com/leomoraesitu/web-app-crm/releases)
 
 
+</td>
+</tr>
 <tr>
 <td width="90" valign="top" align="center">
   </br>
@@ -116,6 +133,10 @@ Principais fundamentos aplicados:
 
   🌐 [Versão Web](https://app-viagens-leomoraes.flutterflow.app)   
   📱 [Versão Android](https://github.com/leomoraesitu/app-viagens/releases)
+
+</td>
+</tr>
+</table>
 
 ---
 
