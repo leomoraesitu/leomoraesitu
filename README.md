@@ -104,6 +104,7 @@ Principais fundamentos aplicados:
 </tr>
 <tr>
 <td width="90" valign="top" align="center">
+</br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/webappcrm-dark.png">
   <img width="164" alt="Web App CRM" src="assets/webappcrm-light.png">
